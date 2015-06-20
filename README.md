@@ -1,6 +1,7 @@
-===test_project===
+<!DOCTYPE html>
+<h1>===test_project===</h1>
 
-The Purpose of this Repository is to learn about properly using Git and Github
+</p>The Purpose of this Repository is to learn about properly using Git and Github</p>
 
-=*Author*=
+<h4>=*Author*=</h4>
 Niran Lohmaneeratana
